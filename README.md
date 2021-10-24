@@ -3,7 +3,7 @@
 multiple forms - each field should has different ids
 
 
-symfony
+# symfony
 
 https://stackoverflow.com/questions/12998060/check-if-in-dev-mode-inside-a-controller-with-symfony
 
@@ -39,3 +39,6 @@ final class SomeController
     }
 }        
 ```
+
+
+https://stackoverflow.com/questions/39841390/get-getenvironment-from-a-service
