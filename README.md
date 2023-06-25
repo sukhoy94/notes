@@ -42,3 +42,8 @@ final class SomeController
 
 
 https://stackoverflow.com/questions/39841390/get-getenvironment-from-a-service
+
+
+# useful links
+
+- css to sass converter https://css2sass.herokuapp.com/
